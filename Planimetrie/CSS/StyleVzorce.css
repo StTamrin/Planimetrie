@@ -1,0 +1,85 @@
+﻿
+@media only screen and (min-width: 600px) {
+#tvar li{
+display: inline-block;
+padding-right: 2%;
+padding-left: 2%;
+list-style-type: none;
+
+
+}
+
+#tvar {
+	text-align: center;
+
+}
+
+#tvar a {
+	font-size:25px;
+}
+
+img {
+	padding-top:5%;
+	padding-left:5%;
+
+}
+
+.obrazec {
+width: 30%;
+height: 30%;
+float:left;
+padding:0;
+}
+
+.ctverec {
+padding-top:12%;
+}
+
+
+h1 {
+	clear: both;
+}
+
+hr {
+	clear: both;
+}
+}
+
+@media only screen and (min-width: 1200px) {
+#tvar li{
+display: inline-block;
+padding-right: 2%;
+padding-left: 2%;
+list-style-type: none;
+
+}
+
+#tvar {
+	text-align: center;
+}
+
+img {
+	padding-top:5%;
+	padding-left:5%;
+}
+
+.obrazec {
+width: 30%;
+height: 30%;
+float:left;
+padding:0;
+}
+
+.ctverec {
+padding-top:12%;
+}
+
+
+h1 {
+	clear: both;
+}
+
+hr {
+	clear: both;
+}
+}
